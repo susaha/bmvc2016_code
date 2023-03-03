@@ -1,0 +1,5 @@
+*.m~
+*.md~
+external/caffe
+README_backup.md
+

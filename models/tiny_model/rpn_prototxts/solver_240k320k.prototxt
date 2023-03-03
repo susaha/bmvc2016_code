@@ -1,0 +1,15 @@
+net: "/home/suman/Code/bmvc2016_code/models/tiny_model/rpn_prototxts/train_val.prototxt"
+base_lr: 0.001
+lr_policy: "step"
+gamma: 0.1
+stepsize: 240000
+display: 20
+max_iter: 320000
+momentum: 0.9
+weight_decay: 0.0005
+debug_info: false
+snapshot: 10000
+snapshot_prefix: "/media/suman/DATADISK1/ss-workspace/UCF101_data/faster_rcnn/ucf101_tiny_example/caffe_snapshots/rpn/ucf101"
+snapshot_diff: false
+snapshot_after_train: true
+

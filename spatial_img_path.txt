@@ -1,0 +1,1 @@
+/media/suman/DATADISK1/ss-workspace/datasets/UCF101/images
